@@ -1,4 +1,4 @@
-# Data Analysis Project: Survey Results Dashboard
+# Data Analysis Project: Survey Results Analysis Dashboard
 
 This project is a data analysis of a survey that asks people who work in data about several questions like their role name, salary, work-life balance satisfaction, where they live, and their favorite programming language and more. The data was collected and analyzed using Microsoft Power BI.
 
